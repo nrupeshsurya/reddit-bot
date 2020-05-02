@@ -26,4 +26,4 @@ https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-wi
 Use the windows task scheduler to setup the bat-script to run it everyday or at any interval you wish to post to the respective subreddit.
 
 
-Feel free to contact!
+Feel free to contact me!
