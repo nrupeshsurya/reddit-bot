@@ -24,3 +24,6 @@ Use this to generate an api_key which allows you to extract data from the api
 ### windows task scheduler:
 https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-windows-10
 Use the windows task scheduler to setup the bat-script to run it everyday or at any interval you wish to post to the respective subreddit.
+
+
+Feel free to contact!
