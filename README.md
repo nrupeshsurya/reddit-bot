@@ -1,5 +1,5 @@
 # reddit-bot
-A reddit bot which posts music from youtube from playlist to any subreddit of choice and updates daily
+A reddit bot which posts music from Youtube playlist to any subreddit of choice and updates daily
 
 
 ## Usage
@@ -26,4 +26,4 @@ https://www.windowscentral.com/how-create-automated-task-using-task-scheduler-wi
 Use the windows task scheduler to setup the bat-script to run it everyday or at any interval you wish to post to the respective subreddit.
 
 
-Feel free to contact me!
+Feel free to contact me and suggest changes!
