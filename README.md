@@ -1,4 +1,7 @@
 # reddit-bot
+
+https://github.com/nrupeshsurya/reddit-bot
+
 A reddit bot which posts music from Youtube playlist to any subreddit of choice and updates daily
 
 
